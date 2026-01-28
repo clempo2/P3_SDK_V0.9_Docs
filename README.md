@@ -3,6 +3,8 @@ Original Documentation from Multimorphic P3_SDK_V0.9 without modifications.
 Multimorphic does not host the SDK documentation on their website.  
 Hosting the documentation on GitHub allows live links to the documentation.
 
+Access the documentation [here](https://clempo2.github.io/P3_SDK_V0.9_Docs/index.html).
+
 # License
 Except as otherwise noted, the content of this P3 SDK Developer Guide is
 licensed under the [Creative Commons Attribution-ShareAlike 4.0 License](LICENSE_GUIDE.txt),
