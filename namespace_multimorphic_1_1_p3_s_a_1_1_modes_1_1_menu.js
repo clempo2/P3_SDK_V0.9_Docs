@@ -1,0 +1,7 @@
+var namespace_multimorphic_1_1_p3_s_a_1_1_modes_1_1_menu =
+[
+    [ "P3SAEventNameTextEditorMode", "class_multimorphic_1_1_p3_s_a_1_1_modes_1_1_menu_1_1_p3_s_a_event_name_text_editor_mode.html", "class_multimorphic_1_1_p3_s_a_1_1_modes_1_1_menu_1_1_p3_s_a_event_name_text_editor_mode" ],
+    [ "P3SAProfileNameTextEditorMode", "class_multimorphic_1_1_p3_s_a_1_1_modes_1_1_menu_1_1_p3_s_a_profile_name_text_editor_mode.html", "class_multimorphic_1_1_p3_s_a_1_1_modes_1_1_menu_1_1_p3_s_a_profile_name_text_editor_mode" ],
+    [ "ProfileSelectorMode", "class_multimorphic_1_1_p3_s_a_1_1_modes_1_1_menu_1_1_profile_selector_mode.html", "class_multimorphic_1_1_p3_s_a_1_1_modes_1_1_menu_1_1_profile_selector_mode" ],
+    [ "ProfileSettingsSelectorMode", "class_multimorphic_1_1_p3_s_a_1_1_modes_1_1_menu_1_1_profile_settings_selector_mode.html", "class_multimorphic_1_1_p3_s_a_1_1_modes_1_1_menu_1_1_profile_settings_selector_mode" ]
+];

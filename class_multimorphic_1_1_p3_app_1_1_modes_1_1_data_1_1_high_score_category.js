@@ -1,0 +1,26 @@
+var class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category =
+[
+    [ "DisallowFromRestoredGames", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a7d28197be9107abccb3c4bbce6f82c46", null ],
+    [ "SetDecimalPlaces", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a69709e16acee60381815a0731e509ed6", null ],
+    [ "SetDefaultNames", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a6e634b455c7e5ec89839fcd68144ef40", null ],
+    [ "SetDefaultValues", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a00806c9c81136eb1d6d4ad0ebc7313a2", null ],
+    [ "SetDefaultValues", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a9786b17b184dd3a3166e809bbd3b3e4f", null ],
+    [ "SetEventName", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a349b845fa12834e0b708da5d918f11a4", null ],
+    [ "SetHighlight", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a9cba3cb45b3d0c404b9ff7a86ff1a6f4", null ],
+    [ "SetSortDirection", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a98d19ad627e6aa4af864e65ad231083b", null ],
+    [ "SetStorageKey", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a28693aa579b20bc6df733e308956c492", null ],
+    [ "SetZeroValue", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a8c56a4dd5b901fa4e0c8be8fe4dbe6b1", null ],
+    [ "SetZeroValue", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a63b7ec2557dc52cca10ee4c40d9e2137", null ],
+    [ "decimalPlaces", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a7cdd82be251274597ddad3c19d6ff451", null ],
+    [ "defaultNames", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a38ac6e65710c519a29e2d32b74974840", null ],
+    [ "defaultValues", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#ac14120b077437d94d5fa1b672a7cc7c6", null ],
+    [ "description", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#ad0bfbcbeb5f1281630b3adbc0fcc62ee", null ],
+    [ "disallowedForRestoredGames", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a6984bdbf4ae38debf2126f794d826755", null ],
+    [ "eventName", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a5bc82f162570e09fd2e64670705abcf6", null ],
+    [ "highlights", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#aa7d6a9c1aa0bc64bef90edb6798e1816", null ],
+    [ "key", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a28b7391437a6ddf9a6a75378b3627ec8", null ],
+    [ "numPlaces", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#aaed4089cd77fc39938e0b2e45332be3b", null ],
+    [ "sortUp", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#ae6776b7a2606126ffc1058c33fcadfd9", null ],
+    [ "storageKey", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a37db908e084a47ff3a094bc8d16bb363", null ],
+    [ "zeroValue", "class_multimorphic_1_1_p3_app_1_1_modes_1_1_data_1_1_high_score_category.html#a817c680d8a87666dcebf13a9ac5df6ea", null ]
+];

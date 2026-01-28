@@ -1,0 +1,27 @@
+var class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller =
+[
+    [ "GetProjectedPoint", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a6512a99898050c74786d9ca1c0599067", null ],
+    [ "GetProjectedPoint", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a1e7f9f27d136fb331a90f42bf732da33", null ],
+    [ "GetProjectedPointUnderBall", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a19d8135441fcadc22788cf11e2f2eb74", null ],
+    [ "GetProjectedPointUnderPredictiveBall", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a8480c8f47ea23e9762fe5ad47740399e", null ],
+    [ "HitByBall", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#ae500be165e2ff475dbc553c1a8ec0c79", null ],
+    [ "HitByFlipper", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#aea9b81a0a040d6b7cb4806b7a33dd0b1", null ],
+    [ "HitBySlingshot", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a29506b28b4425e506fa33836514acee3", null ],
+    [ "ObjectIsBallAvatar", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a63d8f2042fe8ec610f3e60f7b1e7afc2", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a62ea53e187a82ee5c0a053c0da26294f", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a39fc52fa7ec19b46463e8b79127715e4", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#afc30070d45549137c739f76785f4841f", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a66bb4333f49844fc453900ec39ef57d5", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a3bf1084d969bae58235009f4cf796ee3", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a1f1d748685045727b78eab79634be5c6", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a664c56de3764e23c36916b43b3c4ee71", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a690c3807248810afdfd376968ec0f1af", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a7974891b5f08786273fbd4ecc551ceff", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#aa5a16a5d9e76d0ab3574928df4781130", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#aa0137ca104717dcf446e4d39d9d69b14", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a02012bbf706aa862cf7c1119bb421279", null ],
+    [ "Spawn", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a400cb6870d68606c7092a2c320bccb1d", null ],
+    [ "ballPosition", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a0914566e13e4efe2b4368a0f58e044c9", null ],
+    [ "ballVector", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a8d397641e9aac20dac87854b8b949fb4", null ],
+    [ "predictedBallPosition", "class_multimorphic_1_1_p3_app_1_1_g_u_i_1_1_popup_score_controller.html#a3a098c9c7b1da115c82f6551fc66a839", null ]
+];

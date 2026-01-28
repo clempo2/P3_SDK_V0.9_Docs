@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['raising_20and_20lowering_20scoops_0',['Raising and Lowering Scoops',['../_physical_features.html#RaisingAndLoweringScoops',1,'']]],
+  ['raising_20and_20lowering_20walls_1',['Raising and Lowering Walls',['../_physical_features.html#RaisingAndLoweringWalls',1,'']]],
+  ['rate_2',['Is there an easy way to see the frame rate?',['../_f_a_q.html#FrameRate',1,'']]],
+  ['reading_20gameattribute_20values_3',['Reading GameAttribute Values',['../_persistent_data.html#Read_GameAttribute',1,'']]],
+  ['receiving_20events_4',['Receiving Events',['../_mode_layer.html#ReceivingModeEvents',1,'']]],
+  ['receiving_20mode_20events_20in_20gui_20scripts_5',['Receiving Mode Events In GUI Scripts',['../_g_u_i_layer.html#ReceivingModeEventsInGUI',1,'']]],
+  ['redemption_20gameattributes_6',['Redemption GameAttributes',['../_persistent_data.html#RedemptionAttributes',1,'']]],
+  ['relay_20off_20at_20startup_7',['Keeping Power Relay Off At Startup',['../_game_management.html#KeepingPowerRelayOffAtStartup',1,'']]],
+  ['releasing_20your_20app_8',['Releasing Your App',['../_deployment.html#Releasing',1,'']]],
+  ['removal_9',['Player Removal',['../_additional_platform_features.html#PlayerRemoval',1,'']]],
+  ['removing_20players_10',['Restarts and Removing Players',['../_additional_platform_features.html#RestartsAndRemovingPlayers',1,'']]],
+  ['replay_20gameattributes_11',['Replay GameAttributes',['../_persistent_data.html#ReplayAttributes',1,'']]],
+  ['replays_12',['Replays',['../_customizing_your_game.html#Replays',1,'']]],
+  ['request_20access_20to_20troughlaunchers_13',['Request Access To TroughLaunchers',['../_physical_features.html#RequestTroughLaunchers',1,'']]],
+  ['request_20launches_14',['Request Launches',['../_physical_features.html#RequestLaunchers',1,'']]],
+  ['resetting_20flipper_20strength_20during_20a_20game_15',['Resetting Flipper Strength During A Game',['../_physical_features.html#ResetFlipperStrength',1,'']]],
+  ['response_20events_16',['Query/Response Events',['../_mode_layer.html#RemovingEvents',1,'']]],
+  ['restarts_17',['Soft Restarts',['../_additional_platform_features.html#SoftRestarts',1,'']]],
+  ['restarts_20and_20removing_20players_18',['Restarts and Removing Players',['../_additional_platform_features.html#RestartsAndRemovingPlayers',1,'']]],
+  ['restore_20state_19',['Save/Restore State',['../_additional_platform_features.html#SaveRestore',1,'']]],
+  ['retrieving_20player_20data_20',['Retrieving Player Data',['../_player_data.html#RetrievingPlayerData',1,'']]],
+  ['run_20code_20when_20saving_20operator_20settings_21',['Run Code When Saving Operator Settings',['../_persistent_data.html#RunCodeUponSavingGameAttribute',1,'']]],
+  ['run_20it_20on_20my_20development_20machine_22',['How do I compile my App so I can run it on my development machine?',['../_f_a_q.html#Compiling',1,'']]],
+  ['running_20my_20app_23',['How do I start a game after running my app?',['../_f_a_q.html#StartingAGame',1,'']]]
+];

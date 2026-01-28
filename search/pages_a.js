@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['launch_20code_0',['Custom Launch Code',['../_creating_playfield_module.html#CustomLaunchCode',1,'']]],
+  ['launches_1',['Launches',['../_physical_features.html#DummyLaunches',1,'Dummy Launches'],['../_physical_features.html#RequestLaunchers',1,'Request Launches']]],
+  ['launching_20balls_20into_20play_2',['Launching Balls Into Play',['../_physical_features.html#TroughLaunching',1,'']]],
+  ['layer_3',['Layer',['../_g_u_i_layer.html#EventsInGUILayer',1,'Events in GUI Layer'],['../_mode_layer.html#EventsInModeLayer',1,'Events in Mode Layer'],['../_g_u_i_layer.html',1,'The GUI Layer'],['../_mode_layer.html',1,'The Mode Layer']]],
+  ['layers_3a_20mode_20and_20gui_4',['The Layers: Mode and GUI',['../_app_structure.html#ModeGUI',1,'']]],
+  ['led_20brightness_20gameattributes_5',['Global LED Brightness GameAttributes',['../_persistent_data.html#GlobalLEDBrightnessGameAttributes',1,'']]],
+  ['leds_6',['LEDs',['../_physical_features.html#LEDs',1,'LEDs'],['../_physical_features.html#LEDSimulations',1,'Simulating LEDs']]],
+  ['leds_20section_7',['LEDs Section',['../_creating_playfield_module.html#ModuleDefinitionLEDs',1,'']]],
+  ['ledscript_20helper_20methods_8',['LEDScript Helper Methods',['../_physical_features.html#LEDScriptsHelper',1,'']]],
+  ['ledscripts_9',['LEDScripts',['../_physical_features.html#LEDScripts',1,'LEDScripts'],['../_physical_features.html#SynchronizingLEDScripts',1,'Synchronizing LEDScripts']]],
+  ['ledstrings_20section_10',['LEDStrings Section',['../_creating_playfield_module.html#ModuleDefinitionLEDStrings',1,'']]],
+  ['license_11',['License',['../_license.html',1,'']]],
+  ['list_20of_20events_12',['List of Events',['../_event_list.html',1,'']]],
+  ['list_20of_20guitomode_20events_13',['List of GUIToMode Events',['../_event_list.html#GUIToModeEventList',1,'']]],
+  ['list_20of_20modetogui_20events_14',['List of ModeToGUI Events',['../_event_list.html#ModeToGUIEventList',1,'']]],
+  ['list_20of_20modetomode_20events_15',['List of ModeToMode Events',['../_event_list.html#ModeToModeEventList',1,'']]],
+  ['ll_20need_16',['What You&apos;ll Need',['../_introduction.html#WhatYoullNeed',1,'']]],
+  ['local_20gameattributes_17',['Playfield Module Local GameAttributes',['../_persistent_data.html#PlayfieldModuleLocalGameAttributes',1,'']]],
+  ['locations_18',['Named Locations',['../_adding_game_content.html#NamedLocations',1,'']]],
+  ['log_20messages_19',['log messages',['../_logging_page.html#CreatingLogs',1,'Creating log messages'],['../_logging_page.html#ViewingLogs',1,'Viewing log messages']]],
+  ['logging_20',['Logging',['../_logging_page.html',1,'Logging'],['../_logging_page.html#Logging',1,'Logging']]],
+  ['lowering_20scoops_21',['Raising and Lowering Scoops',['../_physical_features.html#RaisingAndLoweringScoops',1,'']]],
+  ['lowering_20walls_22',['Raising and Lowering Walls',['../_physical_features.html#RaisingAndLoweringWalls',1,'']]]
+];
